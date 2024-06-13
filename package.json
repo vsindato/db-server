@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "db-server",
   "version": "1.0.0",
   "description": "simple express.js db-server",
